@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "C:\\Android\\android-sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Android\\android-sdk\\ndk-bundle\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target clean"
+  ],
+  "libraries": {
+    "Native-Debug-arm64-v8a": {
+      "artifactName": "Native",
+      "buildCommand": "C:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target Native",
+      "abi": "arm64-v8a",
+      "output": "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libNative.so"
+    }
+  }
+}

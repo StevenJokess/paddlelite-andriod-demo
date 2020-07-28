@@ -1,0 +1,8 @@
+Executable : C:\Android\android-sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+--build
+E:\Android\PaddleLite-android-demo\face_keypoints_detection_demo\app\.externalNativeBuild\cmake\debug\armeabi-v7a
+--target
+Native
+jvmArgs : 
+

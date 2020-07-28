@@ -1,0 +1,61 @@
+{
+  "stringTable": {
+    "0": "E:/Android/PaddleLite-android-demo/face_keypoints_detection_demo/app/.externalNativeBuild/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Android/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Android/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DNative_EXPORTS -IE:/Android/PaddleLite-android-demo/face_keypoints_detection_demo/app/src/main/cpp/../../../PaddleLite/cxx/include -isystem E:/Android/PaddleLite-android-demo/face_keypoints_detection_demo/app/OpenCV/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++11 -mfpu=neon -ffast-math -Ofast -Os -DNDEBUG -fno-exceptions -fomit-frame-pointer -fno-asynchronous-unwind-tables -fno-unwind-tables -fvisibility=hidden -fvisibility-inlines-hidden -fdata-sections -ffunction-sections -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Android\\android-sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\OpenCV\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Android\\android-sdk\\ndk-bundle\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "Native-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Android\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\" --target Native",
+      "buildType": "debug",
+      "toolchain": "2268494157",
+      "abi": "armeabi-v7a",
+      "artifactName": "Native",
+      "files": [
+        {
+          "src": "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\src\\main\\cpp\\Native.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\src\\main\\cpp\\Pipeline.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\src\\main\\cpp\\Utils.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\src\\main\\cpp\\FaceProcess.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libNative.so"
+    }
+  },
+  "toolchains": {
+    "2268494157": {
+      "cppCompilerExecutable": "C:\\Android\\android-sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

@@ -1,0 +1,4 @@
+#Mon Jul 27 21:26:19 CST 2020
+base.0=E\:\\Android\\PaddleLite-android-demo\\face_keypoints_detection_demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

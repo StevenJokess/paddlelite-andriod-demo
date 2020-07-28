@@ -1,0 +1,6 @@
+# ninja log v5
+5	1835	617559159	CMakeFiles/Native.dir/Utils.cc.o	be16f38e702cef52
+7	2558	617559160	CMakeFiles/Native.dir/FaceProcess.cc.o	87719f8400f0fa3f
+1	2583	617559160	CMakeFiles/Native.dir/Native.cc.o	c4285f636ea7da76
+4	3055	617559161	CMakeFiles/Native.dir/Pipeline.cc.o	af07b57d50a211e8
+3055	4299	617559162	E:/Android/PaddleLite-android-demo/face_keypoints_detection_demo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libNative.so	758038a50f9a2a85
